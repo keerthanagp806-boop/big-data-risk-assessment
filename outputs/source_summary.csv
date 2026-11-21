@@ -1,0 +1,8 @@
+source,total_articles,avg_risk_score,high_risk_count,avg_sentiment_compound
+Global Chronicle,6,12.49,0,0.2286
+Daily Wire,5,59.54,3,-0.4289
+Metro Herald,5,51.55,2,-0.3142
+Financial Post,5,38.37,2,-0.1127
+Echo Sentinel,5,27.32,0,0.0799
+Tech Guardian,5,19.73,0,0.1215
+Health Pulse,4,26.19,0,-0.1244

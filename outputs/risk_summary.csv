@@ -1,0 +1,4 @@
+risk_level,article_count,avg_risk_score,avg_negative_intensity,avg_severity_score
+HIGH,7,92.13,90.22,95.0
+MEDIUM,7,59.01,61.68,55.0
+LOW,21,4.96,4.78,5.24

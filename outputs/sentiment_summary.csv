@@ -1,0 +1,4 @@
+sentiment_label,article_count,avg_compound,avg_risk_score
+Positive,17,0.5434,4.24
+Negative,16,-0.7273,68.14
+Neutral,2,0.0,0.0

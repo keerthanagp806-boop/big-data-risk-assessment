@@ -1,0 +1,24 @@
+# Environment & Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Local configuration
+.env
+
+# Hive & Docker local artifacts
+.docker/
+warehouse/
+derby.log
+metastore_db/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS specific
+Thumbs.db
+Desktop.ini
+.DS_Store
